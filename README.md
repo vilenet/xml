@@ -1,5 +1,9 @@
 # XML Formatter Library for C++
 
+## Project Status
+Project status: in progress
+
+
 ## Description
 This library provides functionality to generate XML documents from C++ code. 
 It will includes support for encoding, escaping special characters, and managing output streams.
